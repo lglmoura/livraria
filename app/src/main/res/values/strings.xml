@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Livraria</string>
+    <string name="title_activity_livro">Lista Livro</string>
 </resources>
